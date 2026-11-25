@@ -14,4 +14,4 @@ else:
 
 
 #output: 7
-result: prime Number.
+#result: prime Number.
