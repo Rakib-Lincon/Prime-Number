@@ -11,3 +11,7 @@ else:
             break
     else:
         print("Prime Number")
+
+
+#output: 7
+result: prime Number.
